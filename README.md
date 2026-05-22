@@ -1,0 +1,1 @@
+Adds the selected block outline to selected entities
